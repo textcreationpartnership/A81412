@@ -1,0 +1,508 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A dialqgue [sic] betwen [sic] a dissenter and a church-man touching general and particular points. General, viz. of common-prayer, surplice, cross in baptizm, kneeling at sacrament, god-fathers and mothers, baptism it self. Particular. Of original sin, general redemption.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 39 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81412</idno>
+            <idno type="STC">Wing D1293aA</idno>
+            <idno type="STC">ESTC R227165</idno>
+            <idno type="EEBO-CITATION">99899534</idno>
+            <idno type="PROQUEST">99899534</idno>
+            <idno type="VID">153902</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81412)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153902)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2387:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A dialqgue [sic] betwen [sic] a dissenter and a church-man touching general and particular points. General, viz. of common-prayer, surplice, cross in baptizm, kneeling at sacrament, god-fathers and mothers, baptism it self. Particular. Of original sin, general redemption.</title>
+               </titleStmt>
+               <extent>19, [1]   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>printed in the year, 1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Henry E. Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Customs and practices --  Early works to 1800.</term>
+               <term>Dissenters, Religious --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:153902:1" rendition="simple:additions"/>
+            <p>A <hi>DIALOGVE</hi> BETWEN A DISSENTER AND A CHURCH-MAN Touching General and Particular POINTS.</p>
+            <p>
+               <hi>General,</hi> Viz. Of
+<list>
+                  <item>Common-Prayer,</item>
+                  <item>Surplice,</item>
+                  <item>Croſs in Baptizm,</item>
+                  <item>Kneeling at Sacrament,</item>
+                  <item>God-Fathers and Mothers,</item>
+                  <item>Baptiſm it ſelf.</item>
+               </list>
+            </p>
+            <p>
+               <hi>Particular.</hi> Of
+<list>
+                  <item>Original Sin,</item>
+                  <item>General Redemption</item>
+               </list>
+            </p>
+            <p>
+               <hi>Contend earneſtly for the Faith, once delivered to the Saints,</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed in the Year, 1689.</p>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:153902:2"/>
+            <pb n="1" facs="tcp:153902:2"/>
+            <head>A DIALOGUE Between a DISSENTER And a CHURCH-MAN, <hi>&amp;c.</hi>
+            </head>
+            <sp>
+               <speaker>Diſſenter,</speaker>
+               <p>VVEll met Brother Proteſtant, in this day when there is ſo many Fears and Jea<g ref="char:EOLhyphen"/>louſies abroad in the World, one cries one thing, another cries another thing, but none of them can tell what to ſay.</p>
+            </sp>
+            <sp>
+               <speaker>Church-man,</speaker>
+               <p>
+                  <hi>Why, what do they ſay, if I may ask you, for I am a Man that do not much enquire after News?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Diſſen.</speaker>
+               <p>Why ſome ſay the <hi>Biſhops</hi> will have the <hi>Diſſenters</hi> down, and will not allow <hi>Liberty of Conſcience;</hi> others ſay they will be all upon even ground, but it is certain nothing can be before the <hi>Parliament</hi> ſettle it: But what think you?</p>
+            </sp>
+            <sp>
+               <speaker>Church-m.</speaker>
+               <p>
+                  <hi>I think and hope the</hi> Diſſenters <hi>will not have that Li<g ref="char:EOLhyphen"/>berty that you think they will, for they are a Factious People, and ſuch as will ſow Sedition amongſt us; and what have been the effect of their having their Liberty but Trouble and unhappy Wars.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Diſſen.</speaker>
+               <p>Well, but why ſo faſt upon the <hi>Diſſenters,</hi> you make as if they were the worſt People in the World, you Run up<g ref="char:EOLhyphen"/>on them; but pray inſtance in what they are ſo bad?</p>
+            </sp>
+            <sp>
+               <speaker>Church-m.</speaker>
+               <p>
+                  <hi>Why, they will not comply with the Laws of the Land, and Government of the Church, they will not allow of the</hi> Common-Prayer,
+<pb n="4" facs="tcp:153902:3"/>
+                  <hi>and</hi> Latteny <hi>of the Church; with the</hi> Surplice, <hi>and other Ceremonies of it Eſtabliſhed by Law.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Diſſen.</speaker>
+               <p>Firſt you ſay, they will not comply with the Laws of the Land; pray what Law is it that they break? Do not they pay all manner of Taxes, and Exciſe and Cuſtom as o<g ref="char:EOLhyphen"/>thers do? All that you can charge them with, is in matters of the Church, and that of their Conſcience; and in that Cauſe whether it be lawful to obey God or Man; judge you: and I hope before we have done, I ſhall find you of a more Cha<g ref="char:EOLhyphen"/>ritable temper, and do hope we ſhall better agree, for I delight not in the heats of Paſſion, but had rather do all things in Love; I am perſwaded, were there a right underſtanding of our Principles, you would not have ſo hard thoughts of us: And you ought to put on (if you be the Elect of God) Bowels of Mercy, and yet let us co<g ref="char:cmbAbbrStroke">̄</g>ntend earneſtly for the Faith delive<g ref="char:EOLhyphen"/>red to the Saints, and that Faith let us ſtick and ſtand by; it is but ſome hot ſpirits that will not come to the Touch, that have made all thoſe Differences among us that are. Second<g ref="char:EOLhyphen"/>ly, in matters of the Church, you ſay they diſagree; well, this is a Point of Conſcience, and we cannot agree with your Church in this, for they hold a Form of Prayer, and we a Spi<g ref="char:EOLhyphen"/>rit of Prayer, and this is a Point to be cleared.</p>
+            </sp>
+            <sp>
+               <speaker>Church-m.</speaker>
+               <p>
+                  <hi>Why, it is clear enough, the Apoſtle commands that Prayers and Supplications be made for all Men (Mark the Word he made) and if made, who ſhall they be made by, but by the holy Men of the Church?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Diſſen.</speaker>
+               <p>Well, I grant the Apoſtle doth ſay ſo; but what doth the ſame Apoſtle ſay, Pray in the Spirit, and pray with Underſtanding; now if by the Spirit, not by a Form, for if you go by Form, you tye up the Spirit to that Form; beſide, the Apoſtle bid us walk as you have us for an Example; now if he had intended a Form of Prayer, would not he have gi<g ref="char:EOLhyphen"/>ven us the Example; now if I muſt follow a Form, I muſt have the Example of the Apoſtles for it, and alſo the ſame that they had; if any Man receive any thing in the Woſhip of God, more then God hath Inſtituted, and Commanded by the
+<pb n="5" facs="tcp:153902:3"/>Apoſtle, let him be accurſed, And do not your Church make the <hi>Common Paryer</hi> a Tradition in the Church, and teach it for a Doctrine; nay, do not they ſay it is more Sin to neglect that, then it is to neglect a <hi>Sermon</hi> from the Word of God, and they ſhow it plainly; for if a Man come to the <hi>Sermon,</hi> and not to the <hi>Prayer,</hi> they will nevertheleſs Excommunicate them from Communion.</p>
+            </sp>
+            <sp>
+               <speaker>Church-m.</speaker>
+               <p>
+                  <hi>You require an Example of the Apoſtles, well, I will give you the Example of their Lord and Maſter, when you pray, ſay, Our Father which art in Heaven,</hi> &amp;c. <hi>I hope this will convince you that a Form is lawful, and ſo end the Controverſie ſhortly.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Diſſen.</speaker>
+               <p>Now you ſay well, and here I muſt fall, if I cannot ſtand; I acknowledge Chriſt did give this Form, but we muſt conſider two things, firſt the Reaſon why this Prayer was gi<g ref="char:EOLhyphen"/>ven; ſecondly, the time when it was given; and firſt the Rea<g ref="char:EOLhyphen"/>ſon why, becauſe they ſhould not be like the Heathen, which in a Form uſed long Prayers to be ſeen of Men, and therefore our Saviour tells thom, when you pray, let it be in ſecret; a<g ref="char:EOLhyphen"/>nother Reaſon was, becauſe as yet they had not the knowledge of Prayer according to the Will of God: Secondly, the time when the Prayer was given, it was when the Apoſtles were Young, and they had not received the holy Spirit, which our Saviour told them, ſhould lead them into all Truth; ſo that then it was very neceſſary, that they might know what to pray for; but as in the Type of the Law, when the Antitype ap<g ref="char:EOLhyphen"/>peared, the Type vaniſhed; ſo now when the Spirit of Truth appeared, to lead into a Spirit of Prayer, the Form of Prayer muſt ceaſe; now Chriſt tells them, as though he ſhould have ſaid, I give you now a Form of Prayer, that you may know how to pray, that ſo you may be found in your Duty till I go, and then I will ſend you the Spirit of Truth, and that ſhall di<g ref="char:EOLhyphen"/>rect you into Truth, without a Form; and beſides, when the Holy Ghoſt came down like cloven Tongues in the days of <hi>Pen<g ref="char:EOLhyphen"/>ticoſt,</hi> do you think it came with a Form? Beſides, if our Sa<g ref="char:EOLhyphen"/>viour had intended Forms, would he not have given more, and ſeeing he hath given no more, how dare you uſe more? if it
+<pb n="6" facs="tcp:153902:4"/>were law ful ſeeing the Apoſtle ſaith, Let him be accurſed that add or diminiſh; beſides, you make the Spirit of no effect, for if Chriſt hath ſaid he will give his Spirit to them that ask, and that that Spirit ſhall lead into all Truth, and yet you will not truſt to that Spirit to lead you; do not you tell our Lord, that you will not believe him nor his Spirit, but will rather pray by the Example of Men then by that Spirit, and ſo you make it of no effect; tell you, or your Miniſters of a Spirit of Prayer, and do not they make a Laugh and a Scoff at it? Oh, for ſhame, away with this Spirit.</p>
+            </sp>
+            <sp>
+               <speaker>Church-m.</speaker>
+               <p>
+                  <hi>Well, I ſee you think your ſelf wiſer then all the Fa<g ref="char:EOLhyphen"/>thers of our Church, but a Man in his own wiſdom may fall; what then do you ſay that our Prayers were not Pen'd by the Inſpiration of the holy Spirit? this is hard judging; but ſuppoſe they were writ by In<g ref="char:EOLhyphen"/>ſpiration of the Holy Ghoſt, what then can you ſay againſt it, but that it is good, and ought to be uſed? but I ſee you will grow hot upon it, and ſo we had as good leave of while we are Friends.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Diſſen.</speaker>
+               <p>No no, I am reſolved not to go into any heat, but to go on in Love, for we muſt contend for the Faith: Firſt you ſay, I think my ſelf wiſe, and my Wiſdom may fall; I do not think my ſelf wiſe, but that Wiſdom I have, I hope it is from God, and if God doth ſuffer that to fall, his Word ſhall not fall; you ſay it might be Pen'd by the Holy Ghoſt, well, we will grant it that it was, tho I cannot tell; but do your Biſhops and the Docters of your Church, that Pen'd it, pretend to In<g ref="char:EOLhyphen"/>falibility yea or no?</p>
+            </sp>
+            <sp>
+               <speaker>Church-m.</speaker>
+               <p>
+                  <hi>No, our Church holds no Infalibility.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Diſſen.</speaker>
+               <p>Well, then there is no Church that can claim Superi<g ref="char:EOLhyphen"/>ority (over the Conſciences of Men in matter of Religion) but that Church that can claim Infalibility; and if your Church could claim Infalibility, ſhe could not force all Men to believe it, for by that Conſequence all that decent from the Church of <hi>Rome,</hi> muſt be Hereticks indeed, as ſhe calls them, for ſhe claims to her ſelf Infalibility; but if you have no Infalibility, why then do you compel Men to come to that which may be ſubject to errors as well as themſelves? So that make the beſt
+<pb n="7" facs="tcp:153902:4"/>of them, you cannot make more of them then the Tradition of Men, and what doth our Saviour ſay of them that teach for Truth the Traditions of Men.</p>
+            </sp>
+            <sp>
+               <speaker>Church-m.</speaker>
+               <p>
+                  <hi>Come come, with all your ado, I do not believe that you can make better Prayers then the Prayers of our Church; and therefore do not deſpife them (they are good.)</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Diſſen.</speaker>
+               <p>Stay Friend, the excellency of a Prayer does not con<g ref="char:EOLhyphen"/>ſiſt in the multitude of Words, and eloquence of Speeches, for then the <hi>Phariſees</hi> would a had Heaven for their Prayers; beſides, we have a precept from our Lord, Uſe not long Pray<g ref="char:EOLhyphen"/>ers, and vain Repetitions, but my Son give me thy Heart; and God accepts of the broken in Heart; and the Lord ſaith, If their Prayers be as the Chattering of a Crane, or a Swallow, if it be in ſincerity, he will accept it, and he will not deſpiſe the day of ſmall things; and the bruiſed Reed he will not break, but he will bring forth Judgment unto Victory, and many ſuch like places of Scripture, all to ſhow that it is not the Mouth but the Heart that God asks; and beſide, there is nothing acceptable to God but what comes from him; now, can ano<g ref="char:EOLhyphen"/>ther make a Prayer that may ſute my Condition; No, none can tell my wants ſo well as my ſelf.</p>
+            </sp>
+            <sp>
+               <speaker>Church-m.</speaker>
+               <p>
+                  <hi>Why, is there not a Prayer for all Conditions that you can name?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Diſſen.</speaker>
+               <p>But I tell you, God accepts of nothing but what comes immediately from himſelf, and how can that matter come from his Spirit, which muſt be limitted in a Form?</p>
+            </sp>
+            <sp>
+               <speaker>Church-m.</speaker>
+               <p>
+                  <hi>By having a Form we know what to pray for, before we come to God, and ſo we come with a ſence of what we go to beg for.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Diſſen.</speaker>
+               <p>But ſtill this does but ſtrengthen the Argument, that you will not truſt the Spirit of God, to indite the matter in you, but you will rather truſt to Man, when as God hath ſaid, I will give my Spirit to them that ask it; and our Saviour ſaid, when you come before Men, Take no thought what you ſhall ſay, for it ſhall be given you in that ſame hour: And do you think that he who hath ſaid he will do ſo for you, when
+<pb n="8" facs="tcp:153902:5"/>you appear before Man, (and in the Cauſe at the moſt of but a natural Life, for the Body) will leave you, and not give you what you ſhall ſay when you come before God, and for ſuch high things as are Spiritual eternal, and that which concerns the Soul: Oh, do not think it, what do you think Chriſt dy<g ref="char:EOLhyphen"/>ed for but for to be a Mediator? now if you come to go in ſuch exact Forms, and they be holy, what need is there of him to waſh your Prayers, he muſt ſtand by for nothing.</p>
+            </sp>
+            <sp>
+               <speaker>Church-m.</speaker>
+               <p>
+                  <hi>Well, I wonder how you can ſpeak againſt them, be<g ref="char:EOLhyphen"/>ing they are moſt of them taken out of the Scripture, ſure then you muſt over-turn the Scripture.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Diſſen.</speaker>
+               <p>You think you have done well now, but hear what the Scripture ſaith, He that addeth to it, let him be accurſed; now here is the Scripture, and the Traditions of the Fathers put together, and that which makes it the Sin, is the teaching of it for Truth, and making it the bounds of Communing; for let a Man be of what Principle he will, if he will but come to Church, and hear the Common-Prayer, he may Commune; where as on the other hand, let a Man be never ſo ſound Prin<g ref="char:EOLhyphen"/>cipled, if he do not come to hear the Common Prayer, he is no Communicant; ſo that it is the Compoſing by Men, and the Impoſing upon Men, which makes it the Sin; and beſide all this, as the New Teſtament was put to the Old, the Com<g ref="char:EOLhyphen"/>mon Prayer was put to both; now of theſe things judge you where the error is, and if you have any more to ſpeak as to this Point, ſay on, or elſe let us paſs to ſomething elſe, what you pleaſe.</p>
+            </sp>
+            <sp>
+               <speaker>Church-m.</speaker>
+               <p>
+                  <hi>Say, what ſhall I ſay? ſay what I will, you will have it your way, and therefore I had as good hold my Tongue, and if you will go further, you ſhall propound what.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Diſſen.</speaker>
+               <p>No, I will not have my way no further then the Scripture will judge and try it, but ſince you have put it to me to ſtate the queſtion, pray let it be about the <hi>Surplice,</hi> why have you that Ceremony in your Church; and alſo the Croſs in Baptiſm; and Kneeling at the Sacrament? what mean all theſe Ceremonies in your Church; and after we have cleared theſe we will come to particular Points.</p>
+            </sp>
+            <sp>
+               <pb n="9" facs="tcp:153902:5"/>
+               <speaker>Church-m.</speaker>
+               <p>Firſt, <hi>You ſay the Surplice, doth that offend you? I will tell you in all Ages, the Prieſts were to have Garments to di<g ref="char:EOLhyphen"/>ſtinguiſh them from other People; as in</hi> Aaron's <hi>time the Prieſts were to ware a Linning Ephod, and his Garments were to have Bells up<g ref="char:EOLhyphen"/>on them, and ſo the Prieſts Garments were appointed by God, and they muſt do as God commanded them; and if ſo, why in this time may not the Prieſts go in ſuch Garments as may diſtinguiſh them? for what did God do ſo for, but to diſtinguiſh them from the common People?</hi>
+               </p>
+               <p>Secondly; <hi>You ſay the Croſs in Baptiſm does alſo offend you, tho I am ſory it ſhould, for our Church do declare, when they do it, that it is in ſign of bearing the Croſs of Chriſt; and to ſhow that they ſhould not be aſhamed of the Chriſtianity into which they were Bap<g ref="char:EOLhyphen"/>tized.</hi>
+               </p>
+               <p>Thirdly; <hi>You ſay Kneeling at the Sacrament, I confeſs theſe are Ceremonies of the Church, but yet they are good in their places, and as to this in particular, Can you come into Gods Preſence with too much Reverence? do not the Pſalmiſt ſay,</hi> Come, bow down and kneel before the Lord your Maker? <hi>and can there be too much Reverence in coming before the Lord in ſuch an holy Ordi<g ref="char:EOLhyphen"/>nance?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Diſſen.</speaker>
+               <p>You ſay in <hi>Aaron's</hi> time, you go a great way back, and that into the Law too, but Chriſt was the end of the Law, and of Righteouſneſs to all that believe: [Mark] its to all that believe in him, its not to all that obſerve this and that Ceremony: Now when Chriſt and his Diſciples went into the Temple to Pray and to Preach, do we read of their putting on the Prieſts Garments? no, and do you think when Chriſt Preached in the Mount, and in the Ship, and ſuch places, that he had this and that Garment on? no, we read it not.</p>
+            </sp>
+            <sp>
+               <speaker>Church-m.</speaker>
+               <p>
+                  <hi>You talk of Preaching, we do not uſe the Surplice in Preaching, it is only in Prayer?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Diſſen.</speaker>
+               <p>Well, in Prayer, do we read of the Apoſtles Pray<g ref="char:EOLhyphen"/>ing in this or that Garment, or that when they Prayed in any place among a Congregation of People, that there was any Garments brought them to put on? No, but let me tell you, this was a Ceremony in the <hi>Church of Rome,</hi> and though <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> our
+<pb n="10" facs="tcp:153902:6"/>Church did deſent from her, yet not from this and the other Ceremonies which we have now in hand.</p>
+            </sp>
+            <sp>
+               <speaker>Secondly,</speaker>
+               <p>You ſay the Croſs in Baptiſm is a ſign of their not denying the Chriſtian Faith, but ſtill it is more then you have Rule for in Scripture; for as I ſaid before, the Apoſtle bid us walk as ye have us for example; now of all that they Baptized, we read of none that they Croſſed.</p>
+            </sp>
+            <sp>
+               <speaker>Church-m.</speaker>
+               <p>
+                  <hi>No, I do not know how they ſhould, when they did not know the Croſs, for Chriſt had not then Suffered upon the Croſs.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Diſſen.</speaker>
+               <p>Pray, after Chriſt had Suffered we read of none of the Three Thouſand that they croſſed, but only in the Name of the Father, Son and holy Ghoſt they were Baptized; and you heard of no more; and why then will you go beyond the Scripture Rule?</p>
+            </sp>
+            <sp>
+               <speaker>Thirdly,</speaker>
+               <p>You ſay, can there be too much Reverence in ſo holy an Ordinance; I anſwer, no, there cannot; but yet in the Temple there was not to be a Ring, a Bowle, a Pin more then God had appointed, and that was by a pattern ſhown to <hi>Moſes</hi> in the Mount, and God will have nothing in his Worſhip more then he hath appointed; you would think it was a ſmall matter for <hi>Nadab</hi> and a <hi>Abihud,</hi> when God had Commanded the Fire ſhould not go out upon the Altar, and becauſe they did let it go out, it may be it was through negligence: well, what muſt they do, the Fire which was up<g ref="char:EOLhyphen"/>on the Altar, was holy Fire, and there was the Command it muſt not be let out? Well, but its out, muſt it not be lighted again, when God commanded it ſhould be kept in? but you ſee for the doing of it they both of them loſt their Lives; And yet here ſeemed to be a Command. Now if God will not have a Pin in the Temple, more then was in the Pattern, ſure in his Goſpel Temple he will have no more then his Son, and his Apoſtles ſet for an Example; and if for but lighting of the Fire without a Command, when a Com<g ref="char:EOLhyphen"/>mand ſeemed to be imploy'd, there was Death for them that did it, how dare you injoyn any to Gods Worſhip, when you have no Command, for fear of the ſame Judg<g ref="char:EOLhyphen"/>ment
+<pb n="11" facs="tcp:153902:6"/>to come upon you? Now our Saviour when he was ſate with his Diſciples, he took the Bread and bleſſed it, and gave it to his Diſciples; neither do we read that the Diſci<g ref="char:EOLhyphen"/>ples Received it Kneeling; and would you go to pretend to be more Holy then they, and more Reverent then they were; this ſhows you to be like <hi>Saul</hi> when God commanded him to ſpare none, yet contrary to God's Command, he out of his pretended Zeal, took of the beſt of the Flock; nay, and he did it for a good end, it was to Offer up Sacrifice to the Lord God, yet you ſee how God threatned <hi>Saul</hi> for doing it; and its poſſible <hi>Saul</hi> might do it in Zeal for God, but yet be<g ref="char:EOLhyphen"/>cauſe it was not according to Gods Command he threatned them with ſore Judgment: So that tho you pretend Reve<g ref="char:EOLhyphen"/>rence to God in his Worſhip, yet if you do more then God commands, it is Superſtition and Idolatry, and ſo come un<g ref="char:EOLhyphen"/>der the Sentance of God's Judgments, which he hath pro<g ref="char:EOLhyphen"/>nounced in ſuch a Cauſe. And as we have begun with theſe Subjects, <hi>Baptiſm</hi> and the <hi>Lords-Supper,</hi> there is more to be diſ<g ref="char:EOLhyphen"/>courſed on both of them; and that is in <hi>Baptiſm</hi> the Cere<g ref="char:EOLhyphen"/>mony of <hi>God-Fathers</hi> and <hi>God-Mothers;</hi> and in the <hi>Lords-Supper,</hi> who is the Subject of it; but firſt, why do you uſe <hi>God-Fathers</hi> and <hi>God-Mothers</hi> in <hi>Baptiſm?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Church-m.</speaker>
+               <p>
+                  <hi>Why, our Church is ſo tender of the good Youth, and for the bringing of them up in the Nurture of the Goſpel, that they would have that care taken for them, that if their Parents ſhould Die, they might not be loſt for want of care or looking after, and I think it is a good uſe.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Diſſen.</speaker>
+               <p>But who is ſufficient for theſe things, do not we ſee that many do promiſe and enter into this ingagement, that take no further care, and ſo we may conſequently conclude, that there are more Ruined by breach of Promiſe then there is Saved by having of them? beſide, we do not hear any Com<g ref="char:EOLhyphen"/>mand for it, and I think its a piece of preſumption in Pa<g ref="char:EOLhyphen"/>rents that if they ſhould Die before their Children be of years of Maturity, they then will commit them ſooner to an earthly Friend, rather then to that God that hath promiſed he will be a Father to the Fatherleſs.</p>
+            </sp>
+            <sp>
+               <pb n="12" facs="tcp:153902:7"/>
+               <speaker>Church-m.</speaker>
+               <p>
+                  <hi>Hold, hold, no, we do not think that any Friend can do for them as God can, this is your miſtake.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Diſſen.</speaker>
+               <p>How do you mean my miſtake; ſuppoſe you was upon your Death-Bed, and you were to ſend for me, and commit to my care an only Child, ſaying, you are the only Friend I can trnſt this Childe with; well, I give you my Hand and Seal, that I will be as a Father to it: But not<g ref="char:EOLhyphen"/>wathſtanding when it comes to the pinch you will not believe me, but ſet another to watch over me, to ſee that I diſ<g ref="char:EOLhyphen"/>charge my Duty; Will not this ſhow ſome diſtruſt of my Fainfulneſs? you ſay you leave your Children to God, and I ſay, he hath promiſed to be a Father to the Fatherleſs; and he hath all Heaven and Earth to Rule and diſpoſe of as he pleaſe; but yet notwithſtanding this Promiſe, you will not put your truſt in him, but muſt have a <hi>God-Father</hi> to come in for a ſhare, and in their coming on they Promiſe and Vow that they ſhall do theſe things, forſake the Devil and his Works, the Pomps of this World; alas! a thing out of the reach of Man, for they cannot do it in themſelves, and much more in another; beſides, you diſtruſt the Providence of God in preſerving of them, when he hath by the ſame Pro<g ref="char:EOLhyphen"/>vidence taken you away from them; but if you had a Com<g ref="char:EOLhyphen"/>mand for it, it were lawful for you to do it; if you had example from the Apoſtles, you had ſome ground for it.</p>
+            </sp>
+            <sp>
+               <speaker>Church-m.</speaker>
+               <p>
+                  <hi>I wonder you ſhould be ſo Ignorant, a Man ſo well verſt in the Scripture as you pretend to be, that you ſhould not know that the Apoſtles were in the firſt Age of the Church, and that where ever they come it was their Work to Preach and Convert, and Bap<g ref="char:EOLhyphen"/>tize ſuch as they did bring into the Church by their Preaching, and this was the Foundation of the Church, and adult perſons had no need of God-Fathers and God-Mothers; and you know the Apoſtle bid us watch over one another, and ſtrengthen one another, alſo to ſee that no Root of bitterneſs to ſpring up amongſt us, and trouble us.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Diſſen.</speaker>
+               <p>Well, I know the Apoſtle doth ſay ſo, but it is to the congregated Churches that he had gathered together, that they ſhould not let any Root of bitterneſs ſpring up amongſt
+<pb n="13" facs="tcp:153902:7"/>them, and that they ſhould watch over one another.</p>
+            </sp>
+            <sp>
+               <speaker>Church-m.</speaker>
+               <p>
+                  <hi>You ſpeak you know not what, if you oppoſe this; for as the Church was then made up of adult Believers, only ſo the A<g ref="char:EOLhyphen"/>poſtle ſpeaking to the Beleivers that ſhould not joyn with Heatheniſm or Jewdiſm, ſaid he, The Promiſe is to you, and to your Seed; and if ſo, is not the Seed of Believers in the Pale of the Church, and conſequenly ſuch as ſhould be watcht over, as well as grown perſons, nay more, for they are not of Years of Diſcretion to watch over themſelves, and ſo Love and Duty, both oblige us to the great Work, I think this is a plain Cmmand.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Diſſen.</speaker>
+               <p>I muſt confeſs you have given ſuch an Argument as I believe ſome Thouſands of your Church could not have given, and I will take ſome time to clear it, and therefore I muſt beg your patience, and to that end I ſhall clear theſe Points in our particular Diſcourſe, becauſe we would not diſcourſe of General and Particular together.</p>
+            </sp>
+            <sp>
+               <speaker>Church-m.</speaker>
+               <p>
+                  <hi>Don't you think to put me off and to baffle the Diſ<g ref="char:EOLhyphen"/>courſe, if we diſcourſe we will have things carried on as they go, we will not leave things behind, to come over again; for what concerns me in particular, concerns the Church in general; and ſo clear it to me, if I be not in the right of it, if it be not too much for you.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Diſſen.</speaker>
+               <p>Well, but I tell you, there is ſome things in our Diſcourſe that muſt be particular, but I will Anſwer you and your Church in theſe things in general, becauſe you de<g ref="char:EOLhyphen"/>ſire it; and <hi>firſt</hi> you ſay, the Church was made up of a<g ref="char:EOLhyphen"/>dult perſons, which is true, but what was the ſign of their Church-ſhip?</p>
+            </sp>
+            <sp>
+               <speaker>Church-m.</speaker>
+               <p>
+                  <hi>Why, it was Baptiſm, they were Baptized into the Church, and ſo became Members of the Church; and the Apoſtle tells them, the Promiſe is to you and your Seed.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Diſſen.</speaker>
+               <p>Well, then you make a Church by Succeſſion, and ſo make it National; but why do not you bring in the next Words; And as many as the Lord your God ſhall call? So that here muſt be a calling, before a Church-Member, and conſequently before Baptiſm, for they were not to be Church<g ref="char:EOLhyphen"/>ed before Baptized, nor Baptized before they Believe; and if ſo, how are Infants capable of being Church Members?</p>
+            </sp>
+            <sp>
+               <pb n="14" facs="tcp:153902:8"/>
+               <speaker>Church-m.</speaker>
+               <p>
+                  <hi>Its true, the Words run ſo, but yet it doth not Ex<g ref="char:EOLhyphen"/>clude Believers Children: and the Apoſtle ſaid the other to com<g ref="char:EOLhyphen"/>fort them, that they ſhould not be all, but that God would plant and call more Churches to believe in him, and ſo the number ſhould be increaſed; and further, it was to comfort the ſuce eding Churches, that it ſhould be (viz.) the Promiſe to them and their Seed, as well as to the then preſent Believers and their Seed, ſo that I think there need no further clearing of this Point, that Children are Church-Members.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Diſſen.</speaker>
+               <p>Yes, there wants a great deal of clearing, for you ſay, the Promiſe is to a Church-Members Seed. Pray let me ask you, How did God make his Covenant with <hi>Abra<g ref="char:EOLhyphen"/>ham,</hi> when God ſaid unto him, <hi>I will make my Covenant with thee, and with thy Seed, and thy Seeds Seed, and I will multiply it as the Stars of Heaven?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Church-m.</speaker>
+               <p>
+                  <hi>Well, here you comply with me, that the Covenant is to Seeds Seed, and if ſo in the Law, why not in the time of the Goſpel?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Diſſen.</speaker>
+               <p>Well, I askt you how this Covenant run, you know that God ſaid to <hi>Abraham, But tho thy Seed be as the Stars of Heaven, yet in</hi> Iſaac <hi>ſhall it be Bleſſed:</hi> Was not <hi>Iſhmael</hi> the Son of <hi>Abraham,</hi> and did not he pray for <hi>Iſhmael?</hi> Well, ſaid the Lord, I have heard thee for <hi>Iſhmael,</hi> I will make him a great Nation; but nevertheleſs my Covenant will I eſtabliſh with <hi>Iſaac,</hi> and in <hi>Iſaac</hi> ſhall thy Seed be Bleſſed: So that we ſee out of Believing <hi>Abraham,</hi> there came a Seed that was out of the Covenant, as well as a Seed in Covenant; and when <hi>Rebeccah</hi> had Conceived by one (Mark, here could be no Objection that theſe was two Seeds in her Womb, but by one) and that by one of the Promiſed Seed, our Father <hi>Iſaac:</hi> nay, and the Children having not done Good or Evil; it was ſaid, <hi>Jacob</hi> have I loved, but <hi>Eſau</hi> have I hated; What then ſhall we ſay to theſe things? Is there Unrighte<g ref="char:EOLhyphen"/>ouſneſs with God, God forbid? Read the 9th Chapter of <hi>Romans.</hi> Now will you allow <hi>Iſaac</hi> to be a tipe of Chriſt or not?</p>
+            </sp>
+            <sp>
+               <speaker>Church-m.</speaker>
+               <p>
+                  <hi>Yes, certainly</hi> Iſaac <hi>was a Tipe of Chriſt, and the
+<pb n="15" facs="tcp:153902:8"/>Covenant that was made with</hi> Iſaac <hi>and his Seed, is a Tipe of the Covenant made with Believers and their Seed in Chriſt.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Diſſen.</speaker>
+               <p>Well then, as the Covenant was eſtabliſhed with <hi>Abraham</hi>'s Children in <hi>Iſaac</hi> his Son: So the Covenant that God made with Believers and their Seed, is in Chriſt his Son: Now they that are not in Chriſt by Faith, are not in the Co<g ref="char:EOLhyphen"/>venant, and ſo have no right to the Priviledges of it.</p>
+            </sp>
+            <sp>
+               <speaker>Church-m.</speaker>
+               <p>
+                  <hi>Well, but can we tell how is this in the Covenant, is it a ſecret Decree of God? And ſuppoſe my Child ſhould die (as many do) before they come to Years of <g ref="char:V">Ʋ</g>nderſtanding, Muſt I ſhut my Child out of my Covenant for want of uſing the means? I ſhould think my ſelf much out of my Duty.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Diſſen.</speaker>
+               <p>Pray, in the time of the Law, what time was ſet for Circumciſion of the Children.</p>
+            </sp>
+            <sp>
+               <speaker>Church-m.</speaker>
+               <p>
+                  <hi>The eighth day was appointed of God.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Diſſen.</speaker>
+               <p>Was the Law to be obſerved very ſtrictly, might not they go beyond the bounds of it?</p>
+            </sp>
+            <sp>
+               <speaker>Church-m.</speaker>
+               <p>
+                  <hi>Yes, it was very ſtrict, they muſt not fail in one Point, they muſt not put a Pin in the Temple more then God had ordered.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Diſſen.</speaker>
+               <p>Well then, if they might not let the time paſs; might they do it before the time come?</p>
+            </sp>
+            <sp>
+               <speaker>Church-m.</speaker>
+               <p>No, God was to have his Law ſtrictly obſerved.</p>
+            </sp>
+            <sp>
+               <speaker>Diſſen.</speaker>
+               <p>Well then, do you think there was no Children died before the eighth day? and if they did, might not <hi>Abraham</hi> ſay as well as you, What ſhall become of this Child that is dead and is not circumciſed, and I muſt not go beyond the Law? No, no, ye do not hear <hi>Abraham</hi> in any place thus reaſon with him<g ref="char:EOLhyphen"/>ſelf; for if God is pleaſed to take them away before they come
+<pb n="16" facs="tcp:153902:9"/>within the reach of the command, he muſt leave them to God and not ſearch into his Counſel, nor ſtrain his Command: Now as the time appointed by God in the Law was the eighth day, ſo the time appointed in the Goſpel is when they be<g ref="char:EOLhyphen"/>lieve; <hi>Believe and be baptized.</hi> We do not rend of one that was baptized before their Confeſſion of Faith in Chriſt. Now if they did before they have Faith in Chriſt, it is not their Baptiſm will ſave them; for it is believing, and not bap<g ref="char:EOLhyphen"/>tizing that will ſave them.</p>
+            </sp>
+            <sp>
+               <speaker>Church-m.</speaker>
+               <p>
+                  <hi>Why? do you think that when thoſe holy Families were baptized there was no Children among them?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Diſſen.</speaker>
+               <p>I cannot tell, but if there was, the Scripture tells us they all believed, and were baptized; beſides, Baptiſm and the Lords Supper are the two Ordinances of the Lord, &amp; they that are not capable of the one, are not of the other; for he that eats &amp; drinks unworthily, there is damnation for their Pains; and for Baptiſm, it is the ſign of being buried and in<g ref="char:EOLhyphen"/>grafted into Chriſt. Now for you to ingraft thoſe in Chriſt, which he hath not, is Perſumption.</p>
+            </sp>
+            <sp>
+               <speaker>Church-m.</speaker>
+               <p>
+                  <hi>Why, ſay you? Did not our Lord take little Children in his Arms, and ſay of ſuch is the Kingdom of Heaven, and ex<g ref="char:EOLhyphen"/>cept ye become like them, ye ſhall in no wiſe enter into the Kingdom of Heaven,</hi> &amp;c? <hi>Why ſhould you exclude them which Chriſt hath included?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Diſſen.</speaker>
+               <p>You ſay true, Chriſt did take little Children, and bleſſed them; but did he call for Water, or Baptize, or did he order his Diſciples to do it? No, he ſaid, except you be<g ref="char:EOLhyphen"/>come as Innocent as theſe; that is, except by Righteouſneſs you become as clear of Original, as this Child is of Actual Sin, ye ſhall not enter into the Kingdom of Heaven.</p>
+            </sp>
+            <sp>
+               <speaker>Church-m.</speaker>
+               <p>
+                  <hi>Nay, now you talk like a Man that does not know the Scripture; Indeed you ſay Original Sin, and that in Goſpel time
+<pb n="17" facs="tcp:153902:9"/>doth not the Apoſtle ſay, As in</hi> Adam <hi>all died, ſo in Chriſt ſhall all be made alive, ſo that Original Sin as to its damning nature is taken away by Chriſt: And it is cleared by the Words of our Saviour, Exept you become as this Child, you ſhall not enter into the King<g ref="char:EOLhyphen"/>dom of Heaven; which implies they muſt be innocent, and if inno<g ref="char:EOLhyphen"/>cent, Original as well as Actual Sin muſt be done away.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Diſſen.</speaker>
+               <p>I think you ſpeak as if you did not know Original Sin is done away by Chriſt: This is a great Arminian Point, and this brings in our particular Points, in which we muſt leave the Church, becauſe I know not whether it be the gene<g ref="char:EOLhyphen"/>ral opinion of it, yea or nay; you ſay Original Sin in the Goſpel; Pray why doth the Apoſtle ſay, And by nature ye were Children of Wrath, even as others; now theſe were ſuch as lived in a Goſpel time. Now what ſay you, do you think the Apoſtle had not as great a light into the Priviledges of Chriſt's Death, as you have? and yet he tells them, Ye are by nature Children of wrath, and if Children of wrath, then Original Sin is not done away; for God cannot be wrath with thoſe which have no Sin; for if Original Sin be done away, then Actual Sin muſt ceaſe, for take away the Root, and the Branch dies, and ſo take away Original Sin, and Actual muſt ceaſe, for its by the Fall of <hi>Adam</hi> that we become guilty; now if Chriſt takes away that Fall, then we are innocent as <hi>Adam.</hi> was. Now I do confer where &amp; whom Chriſt redeems he waſheth away all Sin, Original and Actual; but yet we in Gods own Elect, from Original Sin, Actuals do break forth &amp; run till God comes by his reſtraining Grace to work upon them, and make their Election ſure: Now if there were no Root, from whence ſhould all theſe Branches proceed; be<g ref="char:EOLhyphen"/>ſides, there may be many Arguments laid down to prove this Point, but you ſay the Word of our Saviour clears this Point to you, Except you become like this Child, <hi>mark, it is like it:</hi> that is, except by my Righteouſneſs, and Death, &amp; Merits, you become of Original and of Actual Sin, as innocent as this Child is of the Acts of Sin, you ſhall not enter into the
+<pb n="18" facs="tcp:153902:10"/>Kingdom of Heaven. And now I will prove it, that Chriſt did not die for all, as you ſay, <hi>As in</hi> Adam <hi>all died, ſo in Chriſt ſhall all be made alive;</hi> the Apoſtle knew what he ſaid, in <hi>Adam</hi> it is certain all mankind did die, and ſo by the Fall forfited all his Mercies, and did not only forfit all his Mercies, but brought temporal Death, and not only ſo, but ſpiritual Death alſo; and when Man was in this ſtate he could no way help himſelf, but there he muſt lie, if God did not find out a way, and periſh to all eternity. Thus we leave Man and go to God, from his fore-Knowledge, who know<g ref="char:EOLhyphen"/>ing all the Tranſactions of Man in the World, and before Man was made, in his fore-Knowledge ſaw the ſtate in which he was in; and that his Mercies might have a name upon the Earth, as well as his Juſtice, for 'twas ſaid In the day thou eateſt thereof thou ſhalt die; he provi<g ref="char:EOLhyphen"/>ed a Saviour to pay the Price, and lay down Satisfaction, to Juſtice for a number of poor Souls, which he was wil<g ref="char:EOLhyphen"/>ling to make the Veſſels of Glory, to ſhew forth the Praiſe of his Mercies, in his redeeming Love: And now as in <hi>Adam</hi> all dies, ſo in Chriſt all are made alive, that is, all that are made alive: or thus, as in <hi>Adam</hi> he and his all fell; ſo by the Death of Chriſt, the ſecond <hi>Adam,</hi> he and his all are made alive.</p>
+            </sp>
+            <sp>
+               <speaker>Church-m.</speaker>
+               <p>
+                  <hi>Why, was Chriſt dead in Sin, that he muſt be made alive as you ſay, he and his all was made alive, which im<g ref="char:EOLhyphen"/>ploys that he was dead with the Sinner?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Diſſen.</speaker>
+               <p>Yes, it does imply a kind of Death, for as the Sinner had Sinned, and Chriſt took upon him their Sins, he become the greater Sinner by imputation, and ſo he having ingaged to God for the Elect. God's Juſtice did no longer look upon the Sinner for Satisfaction, but upon Chriſt, he having taken upon him the Debt which they were to have paid; he could not ſit down at the right Hand of God, in the Throne of his Glory of Redeeming
+<pb n="19" facs="tcp:153902:10"/>Work, till he had ſatisfied Juſtice, and that muſt be by his Death, and thereby his overcoming of Death, he pur<g ref="char:EOLhyphen"/>chaſed his Life, and with him the Life of all his Elect, and then he aſcended with boldneſs, to the glorious Throne of his Father, in the face of Juſtice to take to himſelf the glory of Mediating and Redeeming works; and theſe, and none but theſe, which are the Redeemed, and are of his Elect, and are called by his Grace, are fit Subjects of the Lords Supper; for he that Eateth and Drinketh un<g ref="char:EOLhyphen"/>worthily, Eateth and Drinketh Damnation to himſelf: So that the Ordinances of Chriſt's Baptiſm and the Lords Supper which is inſeparable as I have ſhewed you before, is of Right to none but Believers.</p>
+               <p>We may meet again, if God permits, to Diſcourſe further, but now I muſt bid you Farewel, for it is late.</p>
+            </sp>
+            <sp>
+               <speaker>Church-m.</speaker>
+               <p>
+                  <hi>I ſhall be glad of the Opportunity, and ſo for this time,</hi> Farewel.</p>
+            </sp>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:153902:11"/>
+         </div>
+      </body>
+   </text>
+</TEI>
